@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Eddie's Research Notes  # 网站标题，比如“XX的科研笔记”
+subtitle: Wireless Comm & AI   # 副标题，可以写你的研究方向
+description: 专注科研分享 # 网站描述，对SEO很重要
+keywords: 5G, AI, CSI, Wireless # 关键词
+author: Eddie Yang             # 你的名字
+language: zh-CN                # 语言改成中文
+timezone: Asia/Shanghai        # 时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
